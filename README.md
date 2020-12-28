@@ -4,4 +4,5 @@ C1) Natural Language Processing with Classification and Vector Spaces
 C2) Natural Language Processing with Probabilistic Models
 C3) Natural Language Processing with Sequence Models
 C4) Natural Language Processing with Attention Models
+
 I suggest you use this for reference only and try to solve the notebooks yourself.
